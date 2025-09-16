@@ -1,1 +1,2 @@
-# pws_eigen-linux-distro
+# Esper's eigen linux distro
+gebasseerd op ubuntu
