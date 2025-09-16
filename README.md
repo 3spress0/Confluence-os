@@ -1,2 +1,2 @@
-# Esper's eigen linux distro
+# Confluence os
 gebasseerd op ubuntu
